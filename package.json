@@ -1,0 +1,22 @@
+{
+  "name": "npm-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmettKaya/npm-tutorials.git"
+  },
+  "author": "Ahmet Kaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmettKaya/npm-tutorials/issues"
+  },
+  "homepage": "https://github.com/ahmettKaya/npm-tutorials#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
